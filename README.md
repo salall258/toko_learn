@@ -1,6 +1,8 @@
 # toko_learn
 
 A new Flutter project.
+a langauge learning app with several screens and extentions like playing audio and sharing pics 
+oop is applied very well.
 
 ## Getting Started
 
